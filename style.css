@@ -76,8 +76,9 @@ h1 {
 }
 
 button{
-  background: rgba(190, 19, 19, 0.2);
-  border: red;
-  font-size: 3rem;
-  cursor: pointer;
+  background: rgb(49 201 93);
+    border: red;
+    font-size: 2.4rem;
+    cursor: pointer;
+    padding: 10px 30px;
 }
